@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#a3391f</color>
+    <color name="colorAccent">#F55730</color>
+    <color name="backgroundColor">#ffff</color>
+    <color name="tectColor">#000</color>
+    <color name="songTimerColor">#484848</color>
+</resources>
